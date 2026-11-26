@@ -24,8 +24,8 @@ Das vorbereitete ZIP `MQBManager_1.6.0_GITHUB_RELEASE_UPLOAD.zip` **vollständig
 
 | Datei | SHA-256 |
 |---|---|
-| `MQB_Display_Manager.exe` | `78e02ecd9de96d76584b8ffba1fd5ef9bf3c6c73232bd48e6457b56b7bb4d41b` |
-| `MQBManager_update.json` | `97d3140108b74d046257495bb3621a9a9347eec691742d63ae0c9c812281c6bd` |
+| `MQB_Display_Manager.exe` | `5889c4b6ba76fad1ccf32d76c97bfa7e99d382f398647e776ba3acca8a3d2df9` |
+| `MQBManager_update.json` | `be9c37bd2753dad5893521f39f5f2bc9e5e60430985576fdf90ead93c79b0058` |
 
 Manifest: `mqb-public-v1`, Tag `manager-v1.6.0-rc1`, **minimum_manager = 1.5.4**, Ed25519-Signatur mit dem bereits im öffentlichen Manager-Kanal hinterlegten Prüfschlüssel.
 
